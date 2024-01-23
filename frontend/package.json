@@ -8,5 +8,8 @@
     "start": "electron ."
   },
   "author": "ant",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^28.1.4"
+  }
 }
